@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" filepath="$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaAndDSA.iml" filepath="$PROJECT_DIR$/.idea/JavaAndDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchNested/SwitchNested.iml" filepath="$PROJECT_DIR$/SwitchNested/SwitchNested.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstProgram/firstProgram.iml" filepath="$PROJECT_DIR$/firstProgram/firstProgram.iml" />
     </modules>
   </component>
