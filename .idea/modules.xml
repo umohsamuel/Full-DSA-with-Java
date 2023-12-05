@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" filepath="$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionsMethods/FunctionsMethods.iml" filepath="$PROJECT_DIR$/FunctionsMethods/FunctionsMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaAndDSA.iml" filepath="$PROJECT_DIR$/.idea/JavaAndDSA.iml" />
