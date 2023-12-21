@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" filepath="$PROJECT_DIR$/Conditions-Loops/Conditions-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FANG-LeetCode-Questions/FANG-LeetCode-Questions.iml" filepath="$PROJECT_DIR$/FANG-LeetCode-Questions/FANG-LeetCode-Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionsMethods/FunctionsMethods.iml" filepath="$PROJECT_DIR$/FunctionsMethods/FunctionsMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaAndDSA.iml" filepath="$PROJECT_DIR$/.idea/JavaAndDSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" filepath="$PROJECT_DIR$/LinearSearchAlgorithm/LinearSearchAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwitchNested/SwitchNested.iml" filepath="$PROJECT_DIR$/SwitchNested/SwitchNested.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstProgram/firstProgram.iml" filepath="$PROJECT_DIR$/firstProgram/firstProgram.iml" />
     </modules>
