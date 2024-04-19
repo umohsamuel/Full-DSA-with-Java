@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Shop" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="com.InnerClass.LocalInner.Shop" />
+    <module name="OOP" />
+    <option name="PROGRAM_PARAMETERS" value="test" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.InnerClass.LocalInner.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
